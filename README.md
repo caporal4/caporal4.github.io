@@ -1,2 +1,12 @@
-# caporal4.github.io
-Move of the month data for Spartan Spin app.
+[
+  {
+    "move": "pushup",
+    "month": "December",
+    "year": 2025
+  },
+  {
+    "move": "squat",
+    "month": "January",
+    "year": 2026
+  }
+]
