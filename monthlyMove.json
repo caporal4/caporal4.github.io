@@ -1,11 +1,13 @@
 [
   {
     "move": "Push-ups",
+    "unit": "Repetition",
     "month": "December",
     "year": 2025
   },
   {
     "move": "Plank",
+    "unit": "Second",
     "month": "January",
     "year": 2026
   }
